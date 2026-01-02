@@ -531,4 +531,5 @@ Start using the dashboard today with `python approval_dashboard.py` and begin re
 
 **Last Updated**: January 2, 2026  
 **Version**: 1.0.0  
-**Author**: LeadEquator Team
+**Author**: Aniket Jadhav
+
