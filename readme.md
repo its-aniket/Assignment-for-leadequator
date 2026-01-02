@@ -63,11 +63,11 @@ http://localhost:7860
 
 2. **Create a virtual environment** (recommended)
    ```bash
-   python -m venv venv
+   python -m venv .venv
    # Windows
-   venv\Scripts\activate
+   .venv\Scripts\activate
    # macOS/Linux
-   source venv/bin/activate
+   source .venv/bin/activate
    ```
 
 3. **Install required packages**
