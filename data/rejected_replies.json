@@ -1,0 +1,17 @@
+[
+  {
+    "post_id": "twitter_67890",
+    "platform": "Twitter",
+    "author": "realestate_pro",
+    "timestamp": "2024-01-15T14:22:00Z",
+    "post_text": "Struggling to track all my leads manually. There has to be a better way...",
+    "intent_score": 0.85,
+    "rejected_reply": {
+      "reply_id": "r5",
+      "text": "Check out LeadEquator! Best lead tracking tool for real estate. Link in bio.",
+      "reply_score": 0.65,
+      "tone": "promotional"
+    },
+    "rejected_at": "2026-01-02T04:48:25.805700"
+  }
+]

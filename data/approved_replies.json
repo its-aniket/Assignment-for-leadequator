@@ -1,0 +1,17 @@
+[
+  {
+    "post_id": "twitter_67890",
+    "platform": "Twitter",
+    "author": "realestate_pro",
+    "timestamp": "2024-01-15T14:22:00Z",
+    "post_text": "Struggling to track all my leads manually. There has to be a better way...",
+    "intent_score": 0.85,
+    "approved_reply": {
+      "reply_id": "r4",
+      "text": "Lead tracking automation is a game-changer. Modern CRMs can score and prioritize leads automatically, saving hours each week.",
+      "reply_score": 0.82,
+      "tone": "educational"
+    },
+    "approved_at": "2026-01-02T05:36:55.095265"
+  }
+]

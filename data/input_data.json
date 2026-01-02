@@ -1,0 +1,74 @@
+[
+  {
+    "post_id": "reddit_12345",
+    "platform": "Reddit",
+    "author": "startup_founder_99",
+    "timestamp": "2024-01-15T10:30:00Z",
+    "post_text": "Anyone know a good CRM for real estate agents?",
+    "intent_score": 0.92,
+    "reply_options": [
+      {
+        "reply_id": "r1",
+        "text": "Hey! LeadEquator specializes in real estate CRM. We have automated lead scoring and follow-up workflows. DM me for a demo!",
+        "reply_score": 0.75,
+        "tone": "promotional"
+      },
+      {
+        "reply_id": "r2",
+        "text": "I've seen real estate agents have success with tools that integrate lead scoring with their existing workflows. What's your biggest pain point with current CRM systems?",
+        "reply_score": 0.88,
+        "tone": "consultative"
+      },
+      {
+        "reply_id": "r3",
+        "text": "For real estate specifically, look for CRMs with strong lead nurturing automation. Features like automated follow-ups and intent tracking make a huge difference in conversion rates.",
+        "reply_score": 0.91,
+        "tone": "educational"
+      }
+    ]
+  },
+  {
+    "post_id": "twitter_67890",
+    "platform": "Twitter",
+    "author": "realestate_pro",
+    "timestamp": "2024-01-15T14:22:00Z",
+    "post_text": "Struggling to track all my leads manually. There has to be a better way...",
+    "intent_score": 0.85,
+    "reply_options": [
+      {
+        "reply_id": "r4",
+        "text": "Lead tracking automation is a game-changer. Modern CRMs can score and prioritize leads automatically, saving hours each week.",
+        "reply_score": 0.82,
+        "tone": "educational"
+      },
+      {
+        "reply_id": "r5",
+        "text": "Check out LeadEquator! Best lead tracking tool for real estate. Link in bio.",
+        "reply_score": 0.65,
+        "tone": "promotional"
+      }
+    ]
+  },
+  {
+    "post_id": "linkedin_45678",
+    "platform": "LinkedIn",
+    "author": "sarah_realtor",
+    "timestamp": "2024-01-15T09:15:00Z",
+    "post_text": "What metrics do you track for lead quality in your sales pipeline?",
+    "intent_score": 0.78,
+    "reply_options": [
+      {
+        "reply_id": "r6",
+        "text": "Key metrics: engagement frequency, response time, property interest level, and budget qualification. Intent scoring helps prioritize high-quality leads automatically.",
+        "reply_score": 0.94,
+        "tone": "educational"
+      },
+      {
+        "reply_id": "r7",
+        "text": "Great question! In real estate, tracking engagement patterns and follow-up responsiveness are crucial. What's your current approach?",
+        "reply_score": 0.89,
+        "tone": "consultative"
+      }
+    ]
+  }
+]
